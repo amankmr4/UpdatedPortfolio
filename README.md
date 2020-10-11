@@ -27,9 +27,9 @@ So I am able to show my skills and get interest from employers.
 
 The following image demonstrates the application functionality:
 
-![WeatherWebApp-Picture1]()
-![WeatherWebApp-Picture2]()
-![WeatherWebApp-Picture3]()
+![Screentshot-Homepage](./images/Screensht_homepage.JPG)
+![Screentshot-Portfolio](./images/Screenshot_portfolio.JPG)
+![Screentshot-Contactme](./images/Screen_contactpage.JPG)
 
 ​
 ​
@@ -43,13 +43,13 @@ I have provided a License document on the Git Repository
 Licence is attached with the Portfolio_hw_2 folder
 ​
 ### Link to the App
-<a href="">Link to the Website</a>
-https://amankmr4.github.io/Portfolio_hw_2/
+<a href="https://amankmr4.github.io/UpdatedPortfolio/">Link to the Website</a>
+https://amankmr4.github.io/UpdatedPortfolio/
 
 <hr>
 Link to Repository
-<a href="">Link to the GitRepository</a>
-https://github.com/amankmr4/Portfolio_hw_2.git
+<a href="https://github.com/amankmr4/UpdatedPortfolio.git">Link to the GitRepository</a>
+https://github.com/amankmr4/UpdatedPortfolio.git
 
 <hr>
 ​
