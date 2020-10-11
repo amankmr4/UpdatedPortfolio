@@ -1,0 +1,59 @@
+body{
+    background-image: url(https://previews.123rf.com/images/imagemir/imagemir1803/imagemir180300007/96994635-geometric-pattern-web-design-background-gradient-neon-backgraund-geometric-backgraund-.jpg);
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.info{
+    margin: auto;
+}
+
+.aman{
+    border-radius: 21%;
+    height: 10%;
+}
+
+.jquerylogo,
+.webapilogo {
+    margin-top: 5px;
+}
+
+
+
+
+ #footer {
+     background-color: rosybrown;
+     text-align: center;
+ }
+
+ #content{
+    background-color: black;
+}
+
+ .gitlogo{
+     width: 55%;
+     height: 55%;
+     margin: auto;
+ }
+
+ .carousel-item{
+     text-align: center;
+ }
+ .movieSlide{
+     margin: auto;
+     width: 55%;
+     height: 55%;
+ }
+ .carousel-item{
+     background-color: black;
+ }
+
+.info{
+    background-color: black;
+    color: azure;
+}
+.leftInfo{
+    color: azure;
+}
+.formInfo{
+    color: azure;
+}
