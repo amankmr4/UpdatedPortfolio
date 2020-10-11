@@ -59,10 +59,3 @@ https://github.com/amankmr4/UpdatedPortfolio.git
 aman.kmr4@yahoo.com
 +614024940267
 
-​
-## Acknowledgments
-​
-* To 
-- Klaus Paiva
-- Sandes Pathak
-- Mozamel Anwary
