@@ -23,11 +23,15 @@ body{
  #footer {
      background-color: rosybrown;
      text-align: center;
+     margin-top: 10px;
  }
 
  #content{
     background-color: black;
+    color: azure;
+    margin-top: 12px;
 }
+
 
  .gitlogo{
      width: 55%;
@@ -38,14 +42,22 @@ body{
  .carousel-item{
      text-align: center;
  }
- .movieSlide{
+ .gitslider{
      margin: auto;
      width: 55%;
      height: 55%;
+     background-color: #63625f;
  }
- .carousel-item{
-     background-color: black;
+
+ .mover{
+     margin: auto;
+     background-color: #63625f;
  }
+
+ .photo{
+    background-color: #63625f;
+ }
+
 
 .info{
     background-color: black;
@@ -56,4 +68,9 @@ body{
 }
 .formInfo{
     color: azure;
+}
+
+.mover{
+    width: 50%;
+    height: 50%;
 }
